@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\models\\equipmentrentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:models\\equipmentrentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\windows\\editequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:windows\\editequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\windows\\editequipmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:windows\\editequipmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\windows\\newequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:windows\\newequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\windows\\neworderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:windows\\neworderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\windows\\datetimepickerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:windows\\datetimepickerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\windows\\datetimepickerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:windows\\datetimepickerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\lessororderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\lessororderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\lessorequipmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\lessorequipmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\lessorequipmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\lessorequipmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\clientorderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\clientorderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\clientorderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\clientorderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\clienthomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\clienthomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\clientequipmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\clientequipmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\clientequipmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\clientequipmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\lessorhomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\lessorhomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\clienthomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\clienthomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\windows\\newequipmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:windows\\newequipmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\windows\\neworderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:windows\\neworderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\lessororderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\lessororderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\lessorhomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\lessorhomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|c:\\users\\admin\\desktop\\solovevup\\equipmentforrent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC89FC23-5652-4A91-B2E2-D1C5593C4A3A}|EquipmentForRent.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditEquipmentWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\EditEquipmentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\EditEquipmentWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\EditEquipmentWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\EditEquipmentWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:48:54.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewEquipmentWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\NewEquipmentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\NewEquipmentWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\NewEquipmentWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\NewEquipmentWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:48:14.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewOrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\NewOrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\NewOrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\NewOrderWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\NewOrderWindow.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:47:19.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DateTimePickerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\DateTimePickerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\DateTimePickerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\DateTimePickerWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\DateTimePickerWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:46:37.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NewEquipmentWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\NewEquipmentWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\NewEquipmentWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\NewEquipmentWindow.xaml",
+              "RelativeToolTip": "Windows\\NewEquipmentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T07:31:02.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NewOrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\NewOrderWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\NewOrderWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\NewOrderWindow.xaml",
+              "RelativeToolTip": "Windows\\NewOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T07:30:11.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditEquipmentWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\EditEquipmentWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\EditEquipmentWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\EditEquipmentWindow.xaml",
+              "RelativeToolTip": "Windows\\EditEquipmentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T07:30:03.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DateTimePickerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\DateTimePickerWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\DateTimePickerWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Windows\\DateTimePickerWindow.xaml",
+              "RelativeToolTip": "Windows\\DateTimePickerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T07:28:45.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LessorOrdersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LessorOrdersPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\LessorOrdersPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LessorOrdersPage.xaml",
+              "RelativeToolTip": "Pages\\LessorOrdersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T07:27:36.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LessorEquipmentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LessorEquipmentPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\LessorEquipmentPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LessorEquipmentPage.xaml",
+              "RelativeToolTip": "Pages\\LessorEquipmentPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T07:26:43.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LessorHomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LessorHomePage.xaml",
+              "RelativeDocumentMoniker": "Pages\\LessorHomePage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LessorHomePage.xaml",
+              "RelativeToolTip": "Pages\\LessorHomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T07:25:24.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientOrdersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\ClientOrdersPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ClientOrdersPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\ClientOrdersPage.xaml",
+              "RelativeToolTip": "Pages\\ClientOrdersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T07:23:43.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientHomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\ClientHomePage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ClientHomePage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\ClientHomePage.xaml",
+              "RelativeToolTip": "Pages\\ClientHomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T07:22:14.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\RegistrationPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\RegistrationPage.xaml",
+              "RelativeToolTip": "Pages\\RegistrationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T07:20:36.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T07:08:58.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "Pages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T06:41:31.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientEquipmentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\ClientEquipmentPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ClientEquipmentPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\ClientEquipmentPage.xaml",
+              "RelativeToolTip": "Pages\\ClientEquipmentPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T06:41:08.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EquipmentRentContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Models\\EquipmentRentContext.cs",
+              "RelativeDocumentMoniker": "Models\\EquipmentRentContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Models\\EquipmentRentContext.cs",
+              "RelativeToolTip": "Models\\EquipmentRentContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:34:52.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\RegistrationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "Pages\\RegistrationPage.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:13:05.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Pages\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:43:19.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LessorOrdersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LessorOrdersPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\LessorOrdersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LessorOrdersPage.xaml.cs",
+              "RelativeToolTip": "Pages\\LessorOrdersPage.xaml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:12:58.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LessorHomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LessorHomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\LessorHomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LessorHomePage.xaml.cs",
+              "RelativeToolTip": "Pages\\LessorHomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:12:56.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LessorEquipmentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LessorEquipmentPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\LessorEquipmentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\LessorEquipmentPage.xaml.cs",
+              "RelativeToolTip": "Pages\\LessorEquipmentPage.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:12:45.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientOrdersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\ClientOrdersPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ClientOrdersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\ClientOrdersPage.xaml.cs",
+              "RelativeToolTip": "Pages\\ClientOrdersPage.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:12:42.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientHomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\ClientHomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ClientHomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\ClientHomePage.xaml.cs",
+              "RelativeToolTip": "Pages\\ClientHomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:12:38.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientEquipmentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\ClientEquipmentPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ClientEquipmentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SolovevUP\\EquipmentForRent\\Pages\\ClientEquipmentPage.xaml.cs",
+              "RelativeToolTip": "Pages\\ClientEquipmentPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:12:35.83Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

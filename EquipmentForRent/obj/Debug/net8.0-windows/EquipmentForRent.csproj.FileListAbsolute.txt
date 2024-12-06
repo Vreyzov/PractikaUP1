@@ -1,0 +1,468 @@
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\EquipmentForRent.exe
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\EquipmentForRent.deps.json
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\EquipmentForRent.runtimeconfig.json
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\EquipmentForRent.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\EquipmentForRent.pdb
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Humanizer.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.csproj.AssemblyReference.cache
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\App.g.cs
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent_MarkupCompile.cache
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent_MarkupCompile.lref
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.g.resources
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.GeneratedMSBuildEditorConfig.editorconfig
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.AssemblyInfoInputs.cache
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.AssemblyInfo.cs
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.csproj.CoreCompileInputs.cache
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Equipmen.476A06E6.Up2Date
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.dll
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\refint\EquipmentForRent.dll
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.pdb
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.genruntimeconfig.cache
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\ref\EquipmentForRent.dll
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LoginPage.g.cs
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\RegistrationPage.g.cs
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientHomePage.g.cs
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorHomePage.g.cs
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientHomePage.baml
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorHomePage.baml
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LoginPage.baml
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\RegistrationPage.baml
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\App.baml
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientEquipmentPage.g.cs
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientOrdersPage.g.cs
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorEquipmentPage.g.cs
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorOrdersPage.g.cs
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientEquipmentPage.baml
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientOrdersPage.baml
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorEquipmentPage.baml
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorOrdersPage.baml
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\DateTimePickerWindow.g.cs
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\DateTimePickerWindow.baml
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\MainWindow.baml
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\NewOrderPage.g.cs
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\NewOrderPage.baml
+D:\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\NewOrderWindow.g.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientEquipmentPage.g.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientHomePage.g.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientOrdersPage.g.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorEquipmentPage.g.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorHomePage.g.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorOrdersPage.g.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LoginPage.g.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\DateTimePickerWindow.g.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\NewOrderWindow.g.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent_MarkupCompile.cache
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent_MarkupCompile.lref
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\EquipmentForRent.exe
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\EquipmentForRent.deps.json
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\EquipmentForRent.runtimeconfig.json
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\EquipmentForRent.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\EquipmentForRent.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\App.baml
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientEquipmentPage.baml
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientHomePage.baml
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientOrdersPage.baml
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorEquipmentPage.baml
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorHomePage.baml
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorOrdersPage.baml
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LoginPage.baml
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\RegistrationPage.baml
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\DateTimePickerWindow.baml
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\NewOrderWindow.baml
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.g.resources
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Equipmen.476A06E6.Up2Date
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\refint\EquipmentForRent.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.genruntimeconfig.cache
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\ref\EquipmentForRent.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\NewEquipmentWindow.g.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\EditEquipmentWindow.g.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\NewEquipmentWindow.baml
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\EditEquipmentWindow.baml
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\EquipmentForRent.exe
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\EquipmentForRent.deps.json
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\EquipmentForRent.runtimeconfig.json
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\EquipmentForRent.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\EquipmentForRent.pdb
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientEquipmentPage.g.cs
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientHomePage.g.cs
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientOrdersPage.g.cs
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorEquipmentPage.g.cs
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorHomePage.g.cs
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorOrdersPage.g.cs
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LoginPage.g.cs
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\DateTimePickerWindow.g.cs
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\EditEquipmentWindow.g.cs
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\NewEquipmentWindow.g.cs
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\NewOrderWindow.g.cs
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent_MarkupCompile.cache
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent_MarkupCompile.lref
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\App.baml
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientEquipmentPage.baml
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientHomePage.baml
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\ClientOrdersPage.baml
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorEquipmentPage.baml
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorHomePage.baml
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LessorOrdersPage.baml
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\LoginPage.baml
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Pages\RegistrationPage.baml
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\DateTimePickerWindow.baml
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\EditEquipmentWindow.baml
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\NewEquipmentWindow.baml
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Windows\NewOrderWindow.baml
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.g.resources
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.AssemblyInfo.cs
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\Equipmen.476A06E6.Up2Date
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\refint\EquipmentForRent.dll
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.pdb
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\EquipmentForRent.genruntimeconfig.cache
+C:\Users\admin\Desktop\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\ref\EquipmentForRent.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\bin\Debug\net8.0-windows\System.Formats.Asn1.dll

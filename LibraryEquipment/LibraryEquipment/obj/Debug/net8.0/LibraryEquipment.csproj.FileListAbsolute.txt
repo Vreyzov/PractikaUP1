@@ -1,0 +1,28 @@
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\LibraryEquipment\LibraryEquipment\bin\Debug\net8.0\LibraryEquipment.deps.json
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\LibraryEquipment\LibraryEquipment\bin\Debug\net8.0\LibraryEquipment.runtimeconfig.json
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\LibraryEquipment\LibraryEquipment\bin\Debug\net8.0\LibraryEquipment.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\LibraryEquipment\LibraryEquipment\bin\Debug\net8.0\LibraryEquipment.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\refint\LibraryEquipment.dll
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.genruntimeconfig.cache
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\ref\LibraryEquipment.dll
+C:\Users\admin\Desktop\SolovevUP\LibraryEquipment\LibraryEquipment\bin\Debug\net8.0\LibraryEquipment.deps.json
+C:\Users\admin\Desktop\SolovevUP\LibraryEquipment\LibraryEquipment\bin\Debug\net8.0\LibraryEquipment.runtimeconfig.json
+C:\Users\admin\Desktop\SolovevUP\LibraryEquipment\LibraryEquipment\bin\Debug\net8.0\LibraryEquipment.dll
+C:\Users\admin\Desktop\SolovevUP\LibraryEquipment\LibraryEquipment\bin\Debug\net8.0\LibraryEquipment.pdb
+C:\Users\admin\Desktop\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.AssemblyInfo.cs
+C:\Users\admin\Desktop\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.dll
+C:\Users\admin\Desktop\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\refint\LibraryEquipment.dll
+C:\Users\admin\Desktop\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.pdb
+C:\Users\admin\Desktop\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\LibraryEquipment.genruntimeconfig.cache
+C:\Users\admin\Desktop\SolovevUP\LibraryEquipment\LibraryEquipment\obj\Debug\net8.0\ref\LibraryEquipment.dll

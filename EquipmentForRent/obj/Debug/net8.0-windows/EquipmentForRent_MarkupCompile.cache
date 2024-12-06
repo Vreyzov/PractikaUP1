@@ -1,0 +1,20 @@
+﻿EquipmentForRent
+
+
+winexe
+C#
+.cs
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\obj\Debug\net8.0-windows\
+EquipmentForRent
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\vladi\OneDrive\Рабочий стол\SolovevUP\EquipmentForRent\App.xaml
+13-627794615
+
+21141506014
+228887135059
+MainWindow.xaml;Pages\ClientEquipmentPage.xaml;Pages\ClientHomePage.xaml;Pages\ClientOrdersPage.xaml;Pages\LessorEquipmentPage.xaml;Pages\LessorHomePage.xaml;Pages\LessorOrdersPage.xaml;Pages\LoginPage.xaml;Pages\RegistrationPage.xaml;Windows\DateTimePickerWindow.xaml;Windows\EditEquipmentWindow.xaml;Windows\NewEquipmentWindow.xaml;Windows\NewOrderWindow.xaml;
+
+False
+
